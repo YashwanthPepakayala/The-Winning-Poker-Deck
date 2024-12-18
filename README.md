@@ -1,6 +1,6 @@
 THE WINNING POKER DECK 🃏🤵
 
-Welcome to Poker Winner Evaluator, a Python-based application that accurately evaluates Poker hands, ranks them, and resolves ties with intelligent logic. Whether you're a developer showcasing technical expertise or a recruiter looking for a project that highlights data structures, algorithms, and Python skills, this project is designed to impress.
+Welcome to THE WINNING POKER DECK, a Python-based application that accurately evaluates Poker hands, ranks them, and resolves ties with intelligent logic. Whether you're a developer showcasing technical expertise or a recruiter looking for a project that highlights data structures, algorithms, and Python skills, this project is designed to impress.
 
 🚀 Key Features
 Comprehensive Hand Evaluation: Supports all standard Poker hands like Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, and more. It evaluates hands using the official Poker hand ranking system.
@@ -30,3 +30,15 @@ Poker Game Logic: Gain an in-depth understanding of how poker hands are ranked a
 Efficient Data Handling: Work with dictionaries, lists, and collections to manage player data and hand evaluations.
 Algorithm Optimization: Learn how to efficiently compare large sets of data, optimize for speed, and ensure accuracy.
 Real-World Python Skills: Build confidence in applying Python’s advanced features like sorting algorithms, dictionaries, and object-oriented programming.
+
+🏆 Skills Demonstrated
+Object-Oriented Programming (OOP)
+Data Manipulation with Python
+Algorithm Design for game logic
+Modular Code Structure
+
+👩‍💼 Why Recruiters Love This Project?
+This project demonstrates:
+Clear understanding of complex problem-solving.
+Ability to write readable and maintainable code.
+Application of real-world scenarios to programming challenges.
